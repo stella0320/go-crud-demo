@@ -1,4 +1,4 @@
-# 🚀 Go User API (Gin + Clean Architecture)
+# 🚀 Go CRUD API (Gin + Clean Architecture)
 
 一個使用 Go + Gin 實作的簡單 User CRUD API，展示後端基礎能力與系統分層設計。
 
